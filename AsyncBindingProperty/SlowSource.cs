@@ -37,7 +37,7 @@ namespace AsyncBindingProperty
                 Thread.Sleep(TimeSpan.FromSeconds(5));
 
                 string newValue = "Value " + Interlocked.Increment(ref id);
-                this.Data = newValue;
+                Data = newValue;
             });
         }
 
