@@ -8,6 +8,8 @@ namespace AsyncBindingProperty
     public class SlowSource : INotifyPropertyChanged
     {
         private volatile string dataValue = "Initial data";
+        private int id = 1;
+        public event PropertyChangedEventHandler PropertyChanged;
 
         public string Data
         {
@@ -27,7 +29,6 @@ namespace AsyncBindingProperty
             }
         }
 
-
         public void FetchNewData()
         {
             ThreadPool.QueueUserWorkItem(delegate
@@ -39,10 +40,6 @@ namespace AsyncBindingProperty
                 this.Data = newValue;
             });
         }
-
-        private int id = 1;
-
-        public event PropertyChangedEventHandler PropertyChanged;
 
         private void OnPropertyChanged(string propertyName)
         {
