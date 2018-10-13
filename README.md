@@ -9,7 +9,9 @@ https://app.pluralsight.com/library/courses/wpf-advanced-topics/exercise-files
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e4580e8133e04b8aa209252e37f3d1c6)](https://www.codacy.com/project/gtrevellick/HelloWorldWpfAsyncBindingPropertyExample/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/report?token=1oJZM6d7GHBXag6IHb7W-3aIcK5pCEMZ2zuTLQmJfvU&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/branch/master/summary)
+[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/report?token=1oJZM6d7GHBXag6IHb7W-3aIcK5pCEMZ2zuTLQmJfvU)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/branch/master/summary)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample.svg)](https://github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample.svg)](https://github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample.svg)](https://github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/issues)
